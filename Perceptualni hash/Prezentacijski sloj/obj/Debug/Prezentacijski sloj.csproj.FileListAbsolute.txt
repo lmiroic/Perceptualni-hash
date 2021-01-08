@@ -1,0 +1,13 @@
+D:\Perceptualni hash\Perceptualni hash\Prezentacijski sloj\bin\Debug\Prezentacijski sloj.exe.config
+D:\Perceptualni hash\Perceptualni hash\Prezentacijski sloj\bin\Debug\Prezentacijski sloj.exe
+D:\Perceptualni hash\Perceptualni hash\Prezentacijski sloj\bin\Debug\Prezentacijski sloj.pdb
+D:\Perceptualni hash\Perceptualni hash\Prezentacijski sloj\bin\Debug\Sloj poslovne logike.dll
+D:\Perceptualni hash\Perceptualni hash\Prezentacijski sloj\bin\Debug\Sloj poslovne logike.pdb
+D:\Perceptualni hash\Perceptualni hash\Prezentacijski sloj\obj\Debug\Prezentacijski sloj.csprojAssemblyReference.cache
+D:\Perceptualni hash\Perceptualni hash\Prezentacijski sloj\obj\Debug\Prezentacijski_sloj.Properties.Resources.resources
+D:\Perceptualni hash\Perceptualni hash\Prezentacijski sloj\obj\Debug\Prezentacijski sloj.csproj.GenerateResource.cache
+D:\Perceptualni hash\Perceptualni hash\Prezentacijski sloj\obj\Debug\Prezentacijski sloj.csproj.CoreCompileInputs.cache
+D:\Perceptualni hash\Perceptualni hash\Prezentacijski sloj\obj\Debug\Prezentacijski sloj.csproj.CopyComplete
+D:\Perceptualni hash\Perceptualni hash\Prezentacijski sloj\obj\Debug\Prezentacijski sloj.exe
+D:\Perceptualni hash\Perceptualni hash\Prezentacijski sloj\obj\Debug\Prezentacijski sloj.pdb
+D:\Perceptualni hash\Perceptualni hash\Prezentacijski sloj\obj\Debug\Prezentacijski_sloj.Form1.resources

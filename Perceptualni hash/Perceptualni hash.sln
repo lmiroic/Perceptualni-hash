@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Prezentacijski sloj", "Prezentacijski sloj\Prezentacijski sloj.csproj", "{E5680594-47B2-4E0E-906B-F58C019A660D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sloj poslovne logike", "Sloj poslovne logike\Sloj poslovne logike.csproj", "{36AC0E93-AAF8-4796-B79A-C35F6C36D898}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E5680594-47B2-4E0E-906B-F58C019A660D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E5680594-47B2-4E0E-906B-F58C019A660D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E5680594-47B2-4E0E-906B-F58C019A660D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E5680594-47B2-4E0E-906B-F58C019A660D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{36AC0E93-AAF8-4796-B79A-C35F6C36D898}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36AC0E93-AAF8-4796-B79A-C35F6C36D898}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36AC0E93-AAF8-4796-B79A-C35F6C36D898}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36AC0E93-AAF8-4796-B79A-C35F6C36D898}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {888E7EFB-1617-495D-9B7C-F9C55E6D72CB}
+	EndGlobalSection
+EndGlobal
