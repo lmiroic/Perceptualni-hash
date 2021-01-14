@@ -1,7 +1,7 @@
 ﻿
 namespace Prezentacijski_sloj
 {
-    partial class Form1
+    partial class PerceptualnoHashiranje
     {
         /// <summary>
         /// Required designer variable.
@@ -35,7 +35,7 @@ namespace Prezentacijski_sloj
             this.label2 = new System.Windows.Forms.Label();
             this.btnAddPicture1 = new System.Windows.Forms.Button();
             this.btnAddPicture2 = new System.Windows.Forms.Button();
-            this.rTBoxIspis = new System.Windows.Forms.RichTextBox();
+            this.rTxtIspis = new System.Windows.Forms.RichTextBox();
             this.btnPerceptualniHash = new System.Windows.Forms.Button();
             this.btnAverageHash = new System.Windows.Forms.Button();
             ((System.ComponentModel.ISupportInitialize)(this.pbPicture1)).BeginInit();
@@ -84,6 +84,7 @@ namespace Prezentacijski_sloj
             this.btnAddPicture1.TabIndex = 4;
             this.btnAddPicture1.Text = "Dodaj prvu sliku";
             this.btnAddPicture1.UseVisualStyleBackColor = true;
+            this.btnAddPicture1.Click += new System.EventHandler(this.btnAddPicture1_Click);
             // 
             // btnAddPicture2
             // 
@@ -93,16 +94,17 @@ namespace Prezentacijski_sloj
             this.btnAddPicture2.TabIndex = 5;
             this.btnAddPicture2.Text = "Dodaj drugu sliku";
             this.btnAddPicture2.UseVisualStyleBackColor = true;
+            this.btnAddPicture2.Click += new System.EventHandler(this.btnAddPicture2_Click);
             // 
-            // rTBoxIspis
+            // rTxtIspis
             // 
-            this.rTBoxIspis.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
+            this.rTxtIspis.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
             | System.Windows.Forms.AnchorStyles.Right)));
-            this.rTBoxIspis.Location = new System.Drawing.Point(12, 253);
-            this.rTBoxIspis.Name = "rTBoxIspis";
-            this.rTBoxIspis.Size = new System.Drawing.Size(776, 104);
-            this.rTBoxIspis.TabIndex = 6;
-            this.rTBoxIspis.Text = "";
+            this.rTxtIspis.Location = new System.Drawing.Point(12, 253);
+            this.rTxtIspis.Name = "rTxtIspis";
+            this.rTxtIspis.Size = new System.Drawing.Size(776, 104);
+            this.rTxtIspis.TabIndex = 6;
+            this.rTxtIspis.Text = "";
             // 
             // btnPerceptualniHash
             // 
@@ -112,6 +114,7 @@ namespace Prezentacijski_sloj
             this.btnPerceptualniHash.TabIndex = 7;
             this.btnPerceptualniHash.Text = "Perceptualno hashiranje";
             this.btnPerceptualniHash.UseVisualStyleBackColor = true;
+            this.btnPerceptualniHash.Click += new System.EventHandler(this.btnPerceptualniHash_Click);
             // 
             // btnAverageHash
             // 
@@ -121,6 +124,7 @@ namespace Prezentacijski_sloj
             this.btnAverageHash.TabIndex = 8;
             this.btnAverageHash.Text = "Average hashiranje";
             this.btnAverageHash.UseVisualStyleBackColor = true;
+            this.btnAverageHash.Click += new System.EventHandler(this.btnAverageHash_Click);
             // 
             // Form1
             // 
@@ -129,7 +133,7 @@ namespace Prezentacijski_sloj
             this.ClientSize = new System.Drawing.Size(800, 450);
             this.Controls.Add(this.btnAverageHash);
             this.Controls.Add(this.btnPerceptualniHash);
-            this.Controls.Add(this.rTBoxIspis);
+            this.Controls.Add(this.rTxtIspis);
             this.Controls.Add(this.btnAddPicture2);
             this.Controls.Add(this.btnAddPicture1);
             this.Controls.Add(this.label2);
@@ -153,7 +157,7 @@ namespace Prezentacijski_sloj
         private System.Windows.Forms.Label label2;
         private System.Windows.Forms.Button btnAddPicture1;
         private System.Windows.Forms.Button btnAddPicture2;
-        private System.Windows.Forms.RichTextBox rTBoxIspis;
+        private System.Windows.Forms.RichTextBox rTxtIspis;
         private System.Windows.Forms.Button btnPerceptualniHash;
         private System.Windows.Forms.Button btnAverageHash;
     }

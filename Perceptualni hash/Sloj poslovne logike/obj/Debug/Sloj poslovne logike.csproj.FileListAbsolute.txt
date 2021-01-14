@@ -4,3 +4,18 @@ D:\Perceptualni hash\Perceptualni hash\Sloj poslovne logike\obj\Debug\Sloj poslo
 D:\Perceptualni hash\Perceptualni hash\Sloj poslovne logike\obj\Debug\Sloj poslovne logike.csproj.CoreCompileInputs.cache
 D:\Perceptualni hash\Perceptualni hash\Sloj poslovne logike\obj\Debug\Sloj poslovne logike.dll
 D:\Perceptualni hash\Perceptualni hash\Sloj poslovne logike\obj\Debug\Sloj poslovne logike.pdb
+D:\Perceptualni hash\Perceptualni hash\Sloj poslovne logike\bin\Debug\Sloj poslovne logike.dll.config
+D:\Perceptualni hash\Perceptualni hash\Sloj poslovne logike\bin\Debug\Shipwreck.Phash.Bitmaps.dll
+D:\Perceptualni hash\Perceptualni hash\Sloj poslovne logike\bin\Debug\Shipwreck.Phash.dll
+D:\Perceptualni hash\Perceptualni hash\Sloj poslovne logike\bin\Debug\System.Buffers.dll
+D:\Perceptualni hash\Perceptualni hash\Sloj poslovne logike\bin\Debug\System.Drawing.Common.dll
+D:\Perceptualni hash\Perceptualni hash\Sloj poslovne logike\bin\Debug\System.Memory.dll
+D:\Perceptualni hash\Perceptualni hash\Sloj poslovne logike\bin\Debug\System.Numerics.Vectors.dll
+D:\Perceptualni hash\Perceptualni hash\Sloj poslovne logike\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Perceptualni hash\Perceptualni hash\Sloj poslovne logike\bin\Debug\Shipwreck.Phash.xml
+D:\Perceptualni hash\Perceptualni hash\Sloj poslovne logike\bin\Debug\Shipwreck.Phash.Bitmaps.xml
+D:\Perceptualni hash\Perceptualni hash\Sloj poslovne logike\bin\Debug\System.Buffers.xml
+D:\Perceptualni hash\Perceptualni hash\Sloj poslovne logike\bin\Debug\System.Memory.xml
+D:\Perceptualni hash\Perceptualni hash\Sloj poslovne logike\bin\Debug\System.Numerics.Vectors.xml
+D:\Perceptualni hash\Perceptualni hash\Sloj poslovne logike\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Perceptualni hash\Perceptualni hash\Sloj poslovne logike\obj\Debug\Sloj poslovne logike.csproj.CopyComplete

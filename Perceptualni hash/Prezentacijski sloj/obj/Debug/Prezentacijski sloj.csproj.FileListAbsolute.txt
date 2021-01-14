@@ -10,4 +10,17 @@ D:\Perceptualni hash\Perceptualni hash\Prezentacijski sloj\obj\Debug\Prezentacij
 D:\Perceptualni hash\Perceptualni hash\Prezentacijski sloj\obj\Debug\Prezentacijski sloj.csproj.CopyComplete
 D:\Perceptualni hash\Perceptualni hash\Prezentacijski sloj\obj\Debug\Prezentacijski sloj.exe
 D:\Perceptualni hash\Perceptualni hash\Prezentacijski sloj\obj\Debug\Prezentacijski sloj.pdb
-D:\Perceptualni hash\Perceptualni hash\Prezentacijski sloj\obj\Debug\Prezentacijski_sloj.Form1.resources
+D:\Perceptualni hash\Perceptualni hash\Prezentacijski sloj\bin\Debug\Shipwreck.Phash.dll
+D:\Perceptualni hash\Perceptualni hash\Prezentacijski sloj\bin\Debug\Shipwreck.Phash.Bitmaps.dll
+D:\Perceptualni hash\Perceptualni hash\Prezentacijski sloj\bin\Debug\System.Numerics.Vectors.dll
+D:\Perceptualni hash\Perceptualni hash\Prezentacijski sloj\bin\Debug\System.Memory.dll
+D:\Perceptualni hash\Perceptualni hash\Prezentacijski sloj\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Perceptualni hash\Perceptualni hash\Prezentacijski sloj\bin\Debug\System.Buffers.dll
+D:\Perceptualni hash\Perceptualni hash\Prezentacijski sloj\bin\Debug\Sloj poslovne logike.dll.config
+D:\Perceptualni hash\Perceptualni hash\Prezentacijski sloj\bin\Debug\Shipwreck.Phash.xml
+D:\Perceptualni hash\Perceptualni hash\Prezentacijski sloj\bin\Debug\Shipwreck.Phash.Bitmaps.xml
+D:\Perceptualni hash\Perceptualni hash\Prezentacijski sloj\bin\Debug\System.Numerics.Vectors.xml
+D:\Perceptualni hash\Perceptualni hash\Prezentacijski sloj\bin\Debug\System.Memory.xml
+D:\Perceptualni hash\Perceptualni hash\Prezentacijski sloj\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Perceptualni hash\Perceptualni hash\Prezentacijski sloj\bin\Debug\System.Buffers.xml
+D:\Perceptualni hash\Perceptualni hash\Prezentacijski sloj\obj\Debug\Prezentacijski_sloj.PerceptualnoHashiranje.resources
